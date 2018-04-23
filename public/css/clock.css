@@ -1,0 +1,22 @@
+.clock {
+}
+
+.date {
+    font-size: 40px;
+    margin: 20px 20px;
+}
+
+.weekday {
+    font-size: 40px;
+    margin: 20px 20px;
+}
+
+.time {
+    font-size: 100px;
+    margin: 20px 20px;
+}
+
+.am {
+    font-size: 40px;
+    margin-left: 20px;
+}

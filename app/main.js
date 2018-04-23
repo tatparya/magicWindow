@@ -2,14 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Clock from './components/clock';
+import Weather from './components/weather';
 
 class App extends React.Component {
 
     render() {
         return (
             <div>
-                <h1>Hello World!</h1>
                 <Clock></Clock>
+                <Weather></Weather>
             </div>
         );
     }
