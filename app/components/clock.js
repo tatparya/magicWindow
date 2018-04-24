@@ -98,7 +98,7 @@ class Clock extends React.Component {
 
     render() {
         return (
-            <div className="clock">
+            <div className="component clock">
                 <div className="weekday">
                     {this.state.weekDay}
                 </div>

@@ -1,0 +1,31 @@
+.weather {
+}
+
+.icon {
+    display: inline-block;
+    margin: auto 0px;
+}
+
+.icon-img{
+    height: 150px;
+}
+
+.temp {
+    display: inline-block;
+    font-size: 60px;
+    margin: auto 0px;
+}
+
+.real-temp {
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.weather-text {
+    font-size: 30px;
+    margin: 10px 0px;
+}
+
+.overview {
+    display: flex;
+}

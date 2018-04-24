@@ -19,4 +19,10 @@ body {
 
 .app {
     padding: 50px;
+    width: 100%;
+    height: 100%;
+}
+
+.component {
+    margin-bottom: 50px;
 }
